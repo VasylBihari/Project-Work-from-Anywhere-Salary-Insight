@@ -1,0 +1,11 @@
+Column	Description
+Company	Name of the organization where the individual is employed
+Job Title	Designation of the employee (e.g., Software Engineer, Product Manager)
+Industry	Sector of employment (e.g., Technology, Finance, Healthcare)
+Location	City and/or country of the job or the headquarters
+Employment Type	Full-time, Part-time, Contract, or Internship
+Experience Level	Job seniority: Entry, Mid, Senior, or Lead
+Remote Flexibility	Indicates whether the job is Remote, Hybrid, or Onsite
+Salary (Annual)	Annual gross salary before tax
+Currency	Currency in which the salary is paid (e.g., USD, EUR, INR)
+Years of Experience	Total years of professional experience the employee has
