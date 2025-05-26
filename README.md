@@ -1,5 +1,5 @@
 # Project-Work-from-Anywhere-Salary-Insight
-Salary analysis by role, region, and flexibility with SQL and PowerBI
+Аналіз зарплати за посадою, регіоном і гнучкістю за допомогою SQL і PowerBI
 
 📋 Огляд проєкту
 
