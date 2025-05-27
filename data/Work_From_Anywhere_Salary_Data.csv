@@ -1,0 +1,501 @@
+﻿Company;Job Title;Industry;Location;Employment Type;Experience Level;Remote Flexibility;Salary (Annual);Currency;Years of Experience
+Microsoft;Data Analyst;Media;Austin;Part-time;Mid;Remote;155200.11;AUD;1,3
+Apple;Data Scientist;Retail;San Francisco;Part-time;Lead;Remote;106365.54;INR;12,1
+Amazon;Software Engineer;Healthcare;San Francisco;Full-time;Lead;Remote;91026.49;INR;9,1
+Tesla;Data Analyst;Retail;Austin;Contract;Mid;Onsite;41824.38;EUR;11,6
+Adobe;DevOps Engineer;Healthcare;New York;Contract;Senior;Remote;143929.78;USD;9,1
+Tesla;Product Manager;Media;Chicago;Part-time;Senior;Remote;68938.17;USD;12,1
+IBM;DevOps Engineer;Healthcare;New York;Internship;Lead;Onsite;108004.81;INR;2,1
+Tesla;Data Scientist;Education;Austin;Part-time;Mid;Onsite;113897.69;USD;12,9
+Tesla;Data Scientist;Tech;Seattle;Internship;Lead;Onsite;72740.4;AUD;12,9
+Salesforce;Product Manager;Media;Austin;Full-time;Senior;Hybrid;56886.82;USD;14,3
+Microsoft;DevOps Engineer;Healthcare;Boston;Part-time;Mid;Hybrid;159626.84;AUD;14,3
+Google;Data Analyst;Healthcare;Boston;Contract;Mid;Remote;70948.17;AUD;14,2
+Salesforce;Software Engineer;Finance;Chicago;Internship;Mid;Hybrid;119704.54;AUD;6,3
+Tesla;DevOps Engineer;Media;Austin;Internship;Lead;Remote;72143.95;USD;5,1
+Google;Data Analyst;Media;Chicago;Full-time;Mid;Remote;183921.4;INR;1,1
+Amazon;DevOps Engineer;Retail;Remote;Internship;Mid;Hybrid;167274.49;EUR;1,4
+Google;DevOps Engineer;Media;Chicago;Full-time;Entry;Hybrid;153796.31;USD;3,7
+Amazon;Product Manager;Education;New York;Full-time;Lead;Onsite;46644.48;AUD;12,5
+Adobe;Software Engineer;Education;San Francisco;Part-time;Lead;Remote;197502.5;INR;13,9
+Salesforce;DevOps Engineer;Media;Seattle;Part-time;Mid;Hybrid;67009.15;USD;8,7
+IBM;UX Designer;Retail;Boston;Part-time;Entry;Onsite;43618.95;EUR;1,0
+IBM;Software Engineer;Retail;Remote;Full-time;Entry;Hybrid;141753.44;AUD;7,8
+Tesla;Software Engineer;Media;Chicago;Contract;Lead;Hybrid;187933.12;USD;0,1
+Apple;Data Scientist;Healthcare;New York;Contract;Entry;Remote;92819.61;EUR;6,6
+Salesforce;Data Analyst;Media;Boston;Contract;Entry;Remote;74959.21;USD;11,1
+Netflix;Software Engineer;Media;Chicago;Contract;Lead;Hybrid;183907.2;USD;1,4
+Amazon;DevOps Engineer;Healthcare;New York;Internship;Lead;Onsite;31643.85;USD;14,2
+IBM;Data Scientist;Finance;Seattle;Part-time;Entry;Hybrid;91990.76;USD;13,5
+Netflix;Data Scientist;Education;Remote;Part-time;Mid;Remote;195955.03;EUR;13,2
+Tesla;DevOps Engineer;Media;Boston;Part-time;Senior;Remote;163853.67;USD;5,7
+Adobe;Product Manager;Healthcare;Boston;Part-time;Mid;Remote;142205.64;GBP;4,9
+Tesla;DevOps Engineer;Retail;Austin;Full-time;Entry;Hybrid;60356.53;INR;0,6
+Netflix;UX Designer;Retail;Remote;Full-time;Lead;Onsite;62313.39;USD;1,6
+Apple;Product Manager;Education;San Francisco;Contract;Senior;Onsite;174162.6;INR;7,6
+Salesforce;Software Engineer;Finance;Seattle;Internship;Mid;Onsite;126747.89;GBP;8,2
+IBM;Data Scientist;Media;Austin;Internship;Lead;Hybrid;144856.63;AUD;7,1
+IBM;Product Manager;Tech;Boston;Part-time;Senior;Remote;167115.69;EUR;0,4
+Microsoft;UX Designer;Education;Chicago;Part-time;Lead;Hybrid;97940.99;EUR;9,8
+Salesforce;UX Designer;Tech;Remote;Part-time;Entry;Hybrid;52667.65;GBP;10,0
+Adobe;Data Scientist;Media;Remote;Internship;Lead;Remote;156421.43;GBP;6,8
+Salesforce;UX Designer;Media;New York;Contract;Lead;Remote;151302.63;EUR;4,1
+Apple;UX Designer;Media;New York;Part-time;Entry;Hybrid;99291.89;AUD;7,0
+IBM;DevOps Engineer;Tech;Boston;Internship;Lead;Remote;190266.08;INR;11,3
+Apple;UX Designer;Finance;Austin;Internship;Lead;Remote;96105.72;GBP;10,9
+Tesla;Data Scientist;Retail;Chicago;Full-time;Entry;Onsite;102864.17;GBP;2,7
+Netflix;Product Manager;Education;Austin;Internship;Senior;Remote;109952.16;AUD;0,8
+Google;Data Analyst;Finance;New York;Full-time;Mid;Remote;51457.57;USD;8,5
+Amazon;Data Scientist;Retail;Chicago;Full-time;Mid;Hybrid;48376.79;USD;13,9
+Apple;Data Analyst;Retail;Chicago;Part-time;Entry;Onsite;161321.75;AUD;12,1
+Netflix;Data Analyst;Retail;Chicago;Contract;Entry;Hybrid;169796.26;USD;6,5
+Tesla;Software Engineer;Media;Remote;Contract;Lead;Hybrid;104047.66;AUD;4,0
+Apple;UX Designer;Retail;Remote;Internship;Senior;Remote;114032.11;INR;2,7
+IBM;DevOps Engineer;Healthcare;Remote;Full-time;Mid;Remote;71030.53;GBP;7,3
+Adobe;UX Designer;Tech;San Francisco;Contract;Mid;Hybrid;147603.82;INR;10,0
+Tesla;DevOps Engineer;Retail;Austin;Contract;Lead;Hybrid;82125.91;EUR;1,8
+Amazon;Software Engineer;Finance;Chicago;Internship;Senior;Onsite;130229.77;AUD;9,0
+Amazon;Product Manager;Tech;Chicago;Part-time;Senior;Remote;195630.14;AUD;4,4
+Google;Data Scientist;Healthcare;Seattle;Internship;Lead;Hybrid;61341.82;USD;3,8
+Microsoft;Data Scientist;Media;Chicago;Full-time;Mid;Remote;167894.15;INR;1,3
+IBM;Data Scientist;Retail;New York;Internship;Lead;Hybrid;80550.03;AUD;14,9
+Microsoft;Software Engineer;Media;New York;Contract;Entry;Remote;70777.08;AUD;1,1
+Adobe;Product Manager;Tech;New York;Contract;Senior;Onsite;176133.14;USD;10,3
+Apple;UX Designer;Tech;Remote;Part-time;Mid;Hybrid;170527.3;USD;0,9
+Adobe;Data Analyst;Education;Chicago;Contract;Lead;Hybrid;115080.27;GBP;6,6
+IBM;Product Manager;Tech;San Francisco;Part-time;Entry;Onsite;169641.61;AUD;0,6
+Meta;Software Engineer;Retail;Seattle;Internship;Entry;Hybrid;89153.38;INR;4,8
+Adobe;Product Manager;Media;Seattle;Full-time;Lead;Remote;83467.92;INR;1,7
+Salesforce;UX Designer;Education;San Francisco;Part-time;Senior;Onsite;158595.34;GBP;11,4
+Meta;UX Designer;Media;Seattle;Full-time;Entry;Onsite;133508.18;EUR;10,6
+Microsoft;Software Engineer;Tech;Seattle;Full-time;Mid;Hybrid;188551.02;INR;7,6
+Apple;UX Designer;Retail;New York;Internship;Mid;Onsite;116400.95;EUR;13,0
+Salesforce;Product Manager;Tech;Austin;Contract;Lead;Remote;105913.06;GBP;5,2
+Netflix;Software Engineer;Media;New York;Internship;Mid;Hybrid;37420.04;GBP;10,6
+Google;Software Engineer;Retail;Remote;Contract;Entry;Hybrid;46950.99;GBP;0,2
+Meta;Product Manager;Retail;Chicago;Internship;Entry;Hybrid;174898.03;AUD;5,7
+Google;Data Scientist;Tech;New York;Contract;Mid;Onsite;45364.49;USD;11,4
+Google;Data Analyst;Healthcare;Boston;Full-time;Senior;Hybrid;93722.99;EUR;3,7
+Microsoft;Data Scientist;Education;Remote;Part-time;Lead;Onsite;54330.01;GBP;9,6
+Adobe;Product Manager;Media;Remote;Part-time;Entry;Hybrid;190690.06;AUD;4,5
+Meta;Software Engineer;Education;Boston;Internship;Entry;Remote;94831.93;INR;8,6
+IBM;DevOps Engineer;Media;San Francisco;Internship;Senior;Remote;133201.05;INR;3,3
+Amazon;DevOps Engineer;Tech;Chicago;Full-time;Senior;Hybrid;35671.97;INR;11,0
+Amazon;Software Engineer;Finance;Boston;Contract;Senior;Remote;73684.91;GBP;14,5
+Adobe;Data Analyst;Finance;Boston;Part-time;Lead;Onsite;92181.76;GBP;0,2
+Meta;Data Scientist;Education;Boston;Contract;Entry;Onsite;69749.72;USD;9,3
+Microsoft;DevOps Engineer;Education;Chicago;Contract;Lead;Remote;53762.09;USD;4,6
+Salesforce;Software Engineer;Education;Seattle;Contract;Lead;Onsite;156185.73;EUR;13,3
+Meta;Data Analyst;Media;Austin;Part-time;Lead;Hybrid;191594.38;INR;1,5
+Meta;Software Engineer;Tech;Boston;Internship;Entry;Onsite;66057.99;AUD;14,6
+IBM;Software Engineer;Tech;Boston;Part-time;Mid;Remote;85855.12;EUR;11,8
+Amazon;Software Engineer;Retail;Austin;Part-time;Entry;Onsite;177296.14;EUR;0,2
+Meta;Data Analyst;Finance;Chicago;Internship;Entry;Onsite;40804.87;GBP;11,7
+Apple;Data Scientist;Tech;Chicago;Contract;Lead;Onsite;193884.45;USD;15,0
+Adobe;Data Analyst;Tech;Austin;Part-time;Entry;Remote;76752.72;AUD;8,2
+Adobe;Data Scientist;Retail;Seattle;Full-time;Entry;Onsite;140655.83;AUD;10,8
+Tesla;Product Manager;Education;Seattle;Internship;Entry;Hybrid;102549.88;INR;5,6
+Microsoft;Data Analyst;Education;San Francisco;Contract;Mid;Onsite;40196.77;AUD;8,4
+Tesla;DevOps Engineer;Tech;Austin;Contract;Senior;Remote;128246.15;EUR;2,3
+Salesforce;Product Manager;Tech;Boston;Contract;Mid;Hybrid;173676.38;AUD;9,2
+Meta;Data Analyst;Finance;Austin;Contract;Senior;Hybrid;31037.98;EUR;8,5
+Google;Data Analyst;Media;Remote;Part-time;Lead;Hybrid;107119.78;EUR;5,6
+Google;Software Engineer;Finance;Boston;Full-time;Entry;Hybrid;105329.21;GBP;7,3
+Salesforce;Data Analyst;Healthcare;Seattle;Full-time;Senior;Onsite;145342.66;GBP;7,3
+IBM;Data Analyst;Tech;New York;Contract;Mid;Remote;159907.35;INR;4,9
+Tesla;Data Scientist;Media;New York;Contract;Entry;Hybrid;176499.94;USD;6,5
+IBM;UX Designer;Media;Chicago;Internship;Senior;Remote;98855.49;INR;2,6
+Microsoft;Software Engineer;Education;Remote;Internship;Entry;Hybrid;177989.15;INR;3,3
+Salesforce;Data Scientist;Finance;Boston;Contract;Senior;Onsite;192897.97;EUR;3,5
+Amazon;DevOps Engineer;Tech;New York;Internship;Lead;Onsite;159179.12;GBP;10,2
+Netflix;Software Engineer;Education;San Francisco;Internship;Lead;Onsite;81479.47;INR;8,9
+Adobe;Data Analyst;Tech;Austin;Contract;Entry;Onsite;176922.51;USD;9,2
+Google;UX Designer;Retail;Chicago;Part-time;Senior;Onsite;110856.93;EUR;14,4
+Microsoft;Data Scientist;Media;New York;Full-time;Mid;Onsite;104418.91;GBP;7,9
+Meta;UX Designer;Education;Boston;Contract;Entry;Onsite;140041.91;USD;4,9
+IBM;Software Engineer;Healthcare;San Francisco;Part-time;Senior;Hybrid;194508.41;GBP;1,9
+Netflix;Software Engineer;Media;Chicago;Full-time;Lead;Onsite;91510.78;INR;4,6
+Amazon;Software Engineer;Tech;Austin;Full-time;Entry;Onsite;87249.94;AUD;2,0
+IBM;Software Engineer;Media;Seattle;Full-time;Lead;Hybrid;144981.7;EUR;14,5
+Apple;Product Manager;Education;Boston;Part-time;Senior;Onsite;191012.13;GBP;6,9
+Amazon;Software Engineer;Retail;New York;Contract;Entry;Onsite;111700.41;INR;8,3
+Meta;Data Analyst;Finance;Austin;Internship;Mid;Hybrid;45591.31;EUR;12,3
+Salesforce;Product Manager;Finance;Seattle;Full-time;Senior;Remote;34791.88;USD;12,6
+Adobe;DevOps Engineer;Finance;Boston;Internship;Lead;Onsite;30892.7;USD;0,3
+IBM;Data Scientist;Education;San Francisco;Contract;Mid;Hybrid;50714.22;EUR;6,3
+Adobe;Data Scientist;Retail;San Francisco;Part-time;Mid;Hybrid;102970.61;AUD;5,3
+Microsoft;Data Scientist;Healthcare;San Francisco;Full-time;Lead;Hybrid;37400.85;GBP;14,7
+Microsoft;Product Manager;Finance;Chicago;Full-time;Senior;Remote;37537.07;AUD;5,1
+Adobe;DevOps Engineer;Finance;Boston;Part-time;Entry;Onsite;161952.37;GBP;0,6
+Netflix;Product Manager;Retail;Seattle;Internship;Senior;Remote;158059.46;EUR;4,3
+Netflix;UX Designer;Education;Chicago;Internship;Lead;Hybrid;195533.01;GBP;10,4
+Tesla;Data Analyst;Education;Remote;Part-time;Senior;Hybrid;47441.64;INR;9,9
+Amazon;DevOps Engineer;Education;Austin;Internship;Entry;Onsite;177906.32;INR;9,2
+Tesla;Product Manager;Retail;Boston;Part-time;Entry;Remote;174273.78;GBP;0,5
+IBM;Data Analyst;Retail;New York;Internship;Senior;Hybrid;105469.68;USD;8,6
+Meta;Software Engineer;Tech;San Francisco;Part-time;Lead;Onsite;95787.85;AUD;1,8
+IBM;Product Manager;Media;Seattle;Part-time;Entry;Remote;174980.47;GBP;2,6
+Microsoft;Data Scientist;Retail;Austin;Contract;Mid;Onsite;150625.84;EUR;11,9
+Amazon;Software Engineer;Education;San Francisco;Contract;Senior;Hybrid;166622.49;AUD;1,9
+Adobe;Data Scientist;Education;Boston;Internship;Entry;Remote;195304.55;USD;6,7
+Salesforce;DevOps Engineer;Retail;New York;Part-time;Lead;Onsite;184821.09;USD;12,5
+Netflix;DevOps Engineer;Finance;Austin;Contract;Entry;Hybrid;63371.33;AUD;4,1
+Amazon;Data Scientist;Retail;New York;Part-time;Senior;Onsite;37003.03;USD;1,2
+Tesla;Data Scientist;Media;San Francisco;Internship;Senior;Onsite;192630.53;GBP;3,7
+Google;Software Engineer;Education;Seattle;Internship;Lead;Remote;87832.74;EUR;4,7
+Amazon;Product Manager;Retail;Remote;Full-time;Senior;Remote;109300.34;INR;6,7
+Tesla;Data Scientist;Education;New York;Part-time;Senior;Onsite;152591.83;EUR;11,4
+Meta;UX Designer;Tech;San Francisco;Internship;Lead;Remote;66574.55;INR;0,7
+Adobe;Product Manager;Retail;San Francisco;Full-time;Lead;Remote;180017.47;INR;11,5
+Salesforce;Software Engineer;Healthcare;Remote;Contract;Entry;Hybrid;115723.44;AUD;4,2
+Microsoft;UX Designer;Healthcare;Boston;Contract;Senior;Remote;63839.84;AUD;6,0
+Netflix;UX Designer;Retail;Seattle;Part-time;Mid;Hybrid;188332.69;INR;2,4
+Salesforce;Data Scientist;Retail;Seattle;Contract;Lead;Remote;92620.83;USD;14,7
+Meta;DevOps Engineer;Retail;Remote;Part-time;Entry;Onsite;111676.29;AUD;9,4
+Apple;Data Analyst;Retail;Chicago;Full-time;Mid;Remote;104976.56;GBP;2,3
+Adobe;DevOps Engineer;Media;San Francisco;Part-time;Mid;Onsite;85258.42;GBP;7,9
+Netflix;Data Scientist;Healthcare;Chicago;Contract;Lead;Remote;192747.36;INR;8,4
+Adobe;Product Manager;Education;Austin;Contract;Senior;Remote;127491.06;AUD;5,7
+Meta;DevOps Engineer;Tech;Austin;Internship;Senior;Onsite;111443.47;EUR;12,4
+IBM;DevOps Engineer;Retail;New York;Part-time;Entry;Onsite;183881.31;EUR;9,6
+Adobe;Data Analyst;Media;Boston;Part-time;Entry;Onsite;196244.82;EUR;6,1
+Meta;Product Manager;Healthcare;Chicago;Full-time;Entry;Onsite;127602.67;AUD;11,1
+Amazon;Data Analyst;Education;Boston;Internship;Mid;Onsite;193562.33;INR;13,2
+Netflix;Product Manager;Education;Chicago;Internship;Mid;Onsite;109563.53;EUR;12,1
+Amazon;Data Analyst;Media;Austin;Contract;Mid;Remote;133862.26;GBP;12,4
+Microsoft;Software Engineer;Finance;Seattle;Contract;Mid;Remote;74333.5;EUR;6,7
+IBM;Data Analyst;Healthcare;Chicago;Contract;Mid;Remote;143523.64;GBP;4,6
+Meta;DevOps Engineer;Tech;Chicago;Contract;Senior;Onsite;67544.37;EUR;7,2
+Salesforce;UX Designer;Retail;Boston;Part-time;Mid;Onsite;158305.72;USD;7,9
+IBM;Data Analyst;Tech;Boston;Part-time;Mid;Remote;85780,00;AUD;6,6
+Salesforce;UX Designer;Tech;Seattle;Part-time;Lead;Hybrid;125864.9;AUD;6,9
+Google;DevOps Engineer;Finance;Remote;Full-time;Entry;Hybrid;88569.91;USD;8,1
+Tesla;Software Engineer;Finance;Boston;Internship;Senior;Hybrid;106251.31;GBP;5,6
+Salesforce;UX Designer;Retail;New York;Part-time;Entry;Remote;196343.42;GBP;10,1
+Apple;Software Engineer;Education;Austin;Part-time;Senior;Remote;189359.76;USD;0,5
+Microsoft;Data Analyst;Retail;San Francisco;Internship;Entry;Remote;155891.98;GBP;6,6
+Meta;Software Engineer;Media;Remote;Contract;Senior;Remote;81299.95;EUR;14,8
+Google;Data Scientist;Retail;Chicago;Part-time;Lead;Onsite;114255.53;INR;14,1
+Tesla;Software Engineer;Healthcare;Seattle;Part-time;Lead;Remote;174387.96;INR;12,9
+Tesla;Data Scientist;Retail;New York;Internship;Mid;Hybrid;64567.24;USD;13,8
+Apple;Data Analyst;Healthcare;Seattle;Full-time;Entry;Remote;166790.61;AUD;10,9
+Netflix;Product Manager;Tech;New York;Part-time;Entry;Onsite;199927.24;GBP;13,7
+Apple;Data Scientist;Healthcare;Boston;Contract;Lead;Hybrid;120720.52;INR;4,6
+Adobe;Product Manager;Finance;Austin;Contract;Lead;Remote;125629.2;EUR;11,1
+IBM;DevOps Engineer;Education;Austin;Part-time;Mid;Hybrid;69103.17;AUD;12,5
+Adobe;DevOps Engineer;Media;Chicago;Internship;Lead;Remote;154571.28;INR;2,5
+Salesforce;DevOps Engineer;Tech;Remote;Full-time;Entry;Onsite;38247.45;USD;6,2
+Salesforce;UX Designer;Healthcare;San Francisco;Internship;Lead;Remote;31124.1;AUD;6,2
+Meta;Data Analyst;Retail;Boston;Internship;Mid;Remote;186068.3;AUD;2,2
+Netflix;Product Manager;Education;San Francisco;Contract;Lead;Hybrid;126050.37;EUR;4,5
+Tesla;UX Designer;Retail;Seattle;Full-time;Entry;Onsite;59135.21;GBP;12,7
+Google;Software Engineer;Finance;Boston;Internship;Senior;Remote;187107.08;INR;13,5
+Netflix;Data Analyst;Finance;Remote;Part-time;Lead;Remote;80877.07;AUD;3,6
+Amazon;DevOps Engineer;Media;San Francisco;Contract;Entry;Remote;104305,00;USD;5,1
+Netflix;Data Analyst;Media;Austin;Internship;Lead;Remote;90487.9;GBP;6,5
+IBM;Product Manager;Finance;Chicago;Full-time;Entry;Hybrid;56217.56;EUR;11,1
+Meta;UX Designer;Healthcare;Boston;Contract;Entry;Remote;44840.53;GBP;6,7
+Microsoft;Product Manager;Retail;San Francisco;Contract;Lead;Remote;79614.05;GBP;11,7
+Tesla;Software Engineer;Finance;Austin;Contract;Senior;Hybrid;54808.92;EUR;6,5
+Netflix;Product Manager;Finance;Chicago;Internship;Mid;Hybrid;48185.3;INR;0,1
+Netflix;UX Designer;Healthcare;Seattle;Part-time;Senior;Hybrid;132545.92;EUR;7,2
+Adobe;Data Scientist;Finance;Austin;Internship;Senior;Hybrid;92052.64;AUD;3,0
+Adobe;DevOps Engineer;Finance;Seattle;Contract;Entry;Hybrid;144406.2;EUR;9,5
+Tesla;Data Analyst;Education;Remote;Internship;Lead;Onsite;116124.15;GBP;8,2
+Microsoft;Data Analyst;Finance;Chicago;Contract;Mid;Onsite;134155.24;AUD;14,8
+Microsoft;Product Manager;Finance;Remote;Part-time;Lead;Hybrid;96492.81;AUD;10,4
+Meta;UX Designer;Tech;San Francisco;Part-time;Senior;Hybrid;88321.34;EUR;7,8
+Adobe;Product Manager;Tech;Austin;Full-time;Entry;Remote;174360.6;USD;10,2
+Salesforce;Software Engineer;Healthcare;Remote;Internship;Lead;Remote;165618.48;EUR;2,8
+Apple;UX Designer;Retail;Seattle;Internship;Entry;Onsite;66515.34;INR;11,3
+Salesforce;Software Engineer;Healthcare;Austin;Part-time;Lead;Remote;74600.08;GBP;7,9
+IBM;Data Analyst;Healthcare;Austin;Internship;Mid;Onsite;150018.02;INR;13,8
+Apple;Product Manager;Tech;New York;Contract;Mid;Onsite;96038.76;AUD;2,1
+Salesforce;DevOps Engineer;Media;New York;Part-time;Lead;Hybrid;53850.41;INR;12,6
+Adobe;Software Engineer;Finance;Boston;Internship;Lead;Hybrid;146398.43;GBP;10,7
+Google;Software Engineer;Healthcare;San Francisco;Contract;Mid;Onsite;79073.95;GBP;8,5
+Microsoft;Product Manager;Retail;Boston;Contract;Entry;Onsite;105032.32;EUR;14,8
+Google;UX Designer;Healthcare;Austin;Full-time;Lead;Remote;161857.38;EUR;3,1
+IBM;DevOps Engineer;Education;New York;Part-time;Mid;Remote;166924.88;AUD;5,3
+Meta;Product Manager;Retail;Austin;Full-time;Mid;Hybrid;186190.68;INR;13,0
+Netflix;Software Engineer;Media;Seattle;Internship;Mid;Onsite;137508.34;GBP;5,6
+Meta;DevOps Engineer;Healthcare;Seattle;Internship;Senior;Onsite;30420.42;USD;11,0
+Salesforce;UX Designer;Finance;Seattle;Part-time;Lead;Hybrid;84887.08;INR;5,1
+Netflix;DevOps Engineer;Tech;San Francisco;Full-time;Lead;Remote;51120.32;EUR;6,6
+Amazon;DevOps Engineer;Healthcare;New York;Contract;Entry;Onsite;91274.02;USD;5,6
+Apple;UX Designer;Media;San Francisco;Full-time;Entry;Remote;111057.14;EUR;8,9
+Netflix;Data Analyst;Education;Chicago;Part-time;Lead;Remote;68920.97;USD;11,0
+Meta;Software Engineer;Education;Boston;Part-time;Mid;Remote;120186.41;USD;9,2
+Amazon;UX Designer;Retail;Chicago;Internship;Mid;Remote;182420.8;EUR;11,3
+Tesla;Product Manager;Finance;New York;Contract;Entry;Remote;124077.43;AUD;10,8
+Meta;Software Engineer;Retail;Remote;Part-time;Lead;Hybrid;139848.86;EUR;7,4
+Microsoft;Data Scientist;Tech;Austin;Contract;Mid;Hybrid;176338.38;AUD;6,3
+Microsoft;Data Analyst;Retail;San Francisco;Full-time;Senior;Remote;36770.57;USD;14,2
+Salesforce;UX Designer;Education;Chicago;Internship;Entry;Onsite;121216.02;AUD;2,3
+Apple;Software Engineer;Retail;Austin;Internship;Entry;Hybrid;148774.9;EUR;0,9
+IBM;Data Analyst;Healthcare;Chicago;Part-time;Entry;Remote;150343.1;USD;2,5
+Meta;Software Engineer;Healthcare;New York;Contract;Entry;Remote;86951.87;GBP;4,1
+Adobe;UX Designer;Retail;Austin;Full-time;Lead;Onsite;58369.84;EUR;3,8
+Salesforce;Data Analyst;Tech;Boston;Full-time;Mid;Remote;110199.98;GBP;13,8
+Tesla;Software Engineer;Healthcare;New York;Internship;Senior;Hybrid;170419.49;AUD;5,6
+Salesforce;Data Analyst;Education;San Francisco;Internship;Senior;Hybrid;85641.16;AUD;6,9
+Meta;DevOps Engineer;Retail;New York;Internship;Senior;Onsite;195215.82;EUR;11,0
+Tesla;Data Analyst;Finance;Remote;Contract;Entry;Hybrid;30248.55;GBP;12,7
+Apple;UX Designer;Education;San Francisco;Part-time;Senior;Remote;37463.05;EUR;13,5
+Microsoft;Data Scientist;Tech;Remote;Part-time;Lead;Remote;130622.28;USD;6,5
+Netflix;UX Designer;Media;Boston;Contract;Senior;Hybrid;76232.5;USD;14,2
+Amazon;UX Designer;Education;Austin;Internship;Entry;Onsite;90908.87;EUR;6,8
+Meta;DevOps Engineer;Media;Remote;Full-time;Mid;Hybrid;55215.05;EUR;14,5
+Meta;Software Engineer;Tech;Seattle;Internship;Mid;Remote;108547.35;EUR;1,8
+Tesla;Product Manager;Media;Chicago;Full-time;Senior;Remote;33706.03;USD;3,0
+Netflix;Data Analyst;Tech;Seattle;Full-time;Mid;Onsite;103636.58;GBP;7,4
+Apple;Software Engineer;Healthcare;Austin;Internship;Mid;Remote;134398.12;AUD;3,7
+Adobe;Data Analyst;Tech;Austin;Internship;Mid;Hybrid;63907.83;AUD;3,7
+Netflix;UX Designer;Retail;Boston;Internship;Senior;Onsite;115406.85;GBP;4,1
+Meta;Data Analyst;Education;Remote;Contract;Mid;Remote;47022.84;EUR;4,0
+Tesla;Product Manager;Finance;New York;Part-time;Senior;Onsite;148596.52;AUD;0,4
+Apple;UX Designer;Retail;Austin;Part-time;Lead;Remote;45343.75;EUR;9,0
+IBM;Software Engineer;Finance;Austin;Part-time;Senior;Remote;33725.19;AUD;10,6
+Microsoft;Product Manager;Media;Chicago;Internship;Entry;Hybrid;81300.08;EUR;14,6
+Amazon;DevOps Engineer;Retail;Chicago;Contract;Mid;Onsite;130121.53;EUR;5,7
+IBM;UX Designer;Retail;San Francisco;Part-time;Senior;Onsite;67552.19;AUD;1,6
+Apple;Product Manager;Healthcare;New York;Full-time;Senior;Hybrid;31937.26;EUR;3,7
+Google;Data Analyst;Education;Seattle;Internship;Mid;Hybrid;113823.94;GBP;5,3
+IBM;DevOps Engineer;Media;New York;Part-time;Lead;Remote;165863.08;USD;4,4
+Amazon;UX Designer;Finance;Chicago;Full-time;Entry;Hybrid;130985.19;AUD;13,4
+Tesla;Software Engineer;Tech;San Francisco;Contract;Mid;Remote;99577.58;AUD;10,8
+Microsoft;Data Analyst;Education;Remote;Internship;Mid;Remote;91340.92;GBP;1,3
+Apple;Software Engineer;Media;Austin;Full-time;Lead;Remote;82420.08;GBP;7,1
+Netflix;UX Designer;Healthcare;New York;Internship;Entry;Hybrid;104755.87;INR;3,4
+Microsoft;Data Analyst;Media;Austin;Internship;Mid;Onsite;40367.24;GBP;12,3
+Apple;UX Designer;Healthcare;San Francisco;Internship;Entry;Onsite;127107.39;AUD;12,0
+Adobe;Software Engineer;Finance;New York;Part-time;Mid;Remote;101973.73;GBP;3,0
+Microsoft;Data Analyst;Education;Remote;Internship;Senior;Hybrid;118346.99;USD;11,8
+Microsoft;UX Designer;Finance;New York;Full-time;Entry;Onsite;162522.6;INR;13,0
+Adobe;Data Scientist;Retail;Seattle;Full-time;Mid;Hybrid;98505.57;AUD;9,1
+Netflix;DevOps Engineer;Finance;San Francisco;Internship;Senior;Hybrid;33439.59;INR;4,7
+Apple;Software Engineer;Healthcare;Chicago;Internship;Senior;Hybrid;153895.9;AUD;9,7
+Tesla;DevOps Engineer;Education;Boston;Contract;Entry;Onsite;164553.37;USD;4,7
+Salesforce;Data Scientist;Tech;New York;Part-time;Mid;Remote;72413.34;GBP;0,8
+Adobe;Data Scientist;Education;Chicago;Full-time;Entry;Remote;93319.35;AUD;6,7
+Amazon;Product Manager;Media;Boston;Full-time;Senior;Remote;95716.16;EUR;12,8
+Meta;DevOps Engineer;Education;Remote;Full-time;Entry;Hybrid;184957.62;EUR;9,0
+Meta;DevOps Engineer;Media;Chicago;Contract;Lead;Hybrid;174769.65;GBP;3,8
+Tesla;Data Scientist;Tech;San Francisco;Contract;Senior;Hybrid;146350.23;GBP;1,0
+Meta;DevOps Engineer;Media;Chicago;Contract;Mid;Remote;117939.91;EUR;13,5
+Google;DevOps Engineer;Education;Austin;Contract;Lead;Hybrid;96006.74;USD;8,7
+Apple;DevOps Engineer;Retail;Chicago;Internship;Senior;Onsite;81033.12;EUR;12,6
+Amazon;DevOps Engineer;Healthcare;Chicago;Part-time;Senior;Onsite;45180.97;INR;3,3
+IBM;Product Manager;Education;Boston;Full-time;Lead;Remote;177286.87;AUD;8,7
+Salesforce;Data Analyst;Media;Seattle;Contract;Lead;Remote;178044.35;EUR;2,1
+Adobe;Software Engineer;Healthcare;Boston;Part-time;Entry;Hybrid;86547.01;EUR;4,7
+Amazon;Data Scientist;Finance;Seattle;Full-time;Mid;Onsite;103730.94;GBP;6,7
+Apple;DevOps Engineer;Healthcare;San Francisco;Contract;Mid;Remote;145047.18;EUR;3,4
+Salesforce;Data Scientist;Healthcare;New York;Full-time;Entry;Hybrid;191238.77;GBP;10,9
+Amazon;Product Manager;Education;Austin;Part-time;Mid;Hybrid;33251.2;EUR;10,9
+Amazon;Data Analyst;Healthcare;Chicago;Full-time;Lead;Onsite;73484.16;AUD;9,3
+Google;Data Analyst;Media;San Francisco;Internship;Lead;Hybrid;51011.16;INR;7,1
+Microsoft;DevOps Engineer;Retail;Austin;Part-time;Lead;Remote;116969.41;AUD;1,8
+Apple;Product Manager;Retail;New York;Contract;Lead;Hybrid;57263.51;AUD;7,4
+Google;Data Analyst;Media;San Francisco;Full-time;Lead;Remote;191405.82;AUD;1,1
+Meta;Product Manager;Education;San Francisco;Full-time;Mid;Remote;174882.28;INR;12,0
+Google;Data Analyst;Finance;Chicago;Part-time;Senior;Hybrid;182069.69;AUD;4,0
+Tesla;UX Designer;Education;Austin;Internship;Lead;Hybrid;140303.9;EUR;1,7
+IBM;UX Designer;Retail;Chicago;Internship;Mid;Onsite;94557.63;INR;9,2
+Tesla;UX Designer;Tech;San Francisco;Contract;Senior;Remote;149776.59;AUD;11,5
+Netflix;Data Scientist;Retail;Chicago;Full-time;Lead;Onsite;153530.83;GBP;5,2
+IBM;Data Analyst;Tech;Chicago;Part-time;Lead;Hybrid;177800.66;USD;11,3
+Google;Data Scientist;Finance;Remote;Internship;Lead;Remote;43401.2;GBP;12,0
+Microsoft;UX Designer;Media;Chicago;Full-time;Entry;Hybrid;100097.55;AUD;8,2
+Salesforce;Data Scientist;Finance;Chicago;Internship;Senior;Hybrid;170302.87;EUR;12,7
+Netflix;DevOps Engineer;Education;San Francisco;Full-time;Mid;Remote;88030.71;INR;8,2
+Amazon;UX Designer;Finance;Boston;Internship;Entry;Hybrid;133844.8;EUR;1,8
+Apple;DevOps Engineer;Healthcare;San Francisco;Internship;Entry;Onsite;172369.26;AUD;1,8
+Amazon;UX Designer;Tech;Remote;Full-time;Lead;Onsite;112098.43;AUD;11,7
+Amazon;Data Analyst;Education;Chicago;Contract;Lead;Hybrid;196515.13;EUR;4,1
+Amazon;UX Designer;Retail;Chicago;Contract;Senior;Onsite;155259.17;AUD;9,5
+Netflix;DevOps Engineer;Finance;Chicago;Part-time;Senior;Onsite;49618.89;INR;8,4
+Salesforce;Product Manager;Education;Boston;Full-time;Entry;Remote;94747.95;USD;10,1
+Meta;Software Engineer;Tech;Chicago;Contract;Mid;Onsite;35492.09;GBP;1,5
+Salesforce;DevOps Engineer;Healthcare;Chicago;Full-time;Lead;Hybrid;100816.26;INR;14,5
+Adobe;Software Engineer;Media;Chicago;Contract;Mid;Onsite;193929.27;INR;6,7
+Microsoft;UX Designer;Tech;Seattle;Contract;Senior;Remote;57357.9;INR;0,1
+Netflix;Data Scientist;Tech;Boston;Contract;Lead;Onsite;123527.23;USD;11,8
+Salesforce;Data Analyst;Retail;New York;Internship;Lead;Remote;89398.5;EUR;10,0
+IBM;Data Scientist;Education;Remote;Full-time;Entry;Onsite;88821.24;EUR;13,6
+Netflix;UX Designer;Tech;Seattle;Contract;Senior;Remote;184927.11;INR;7,7
+Apple;Product Manager;Retail;San Francisco;Full-time;Mid;Onsite;120644.99;USD;3,2
+Apple;Data Scientist;Media;Chicago;Internship;Entry;Onsite;146627.4;USD;6,9
+Amazon;Product Manager;Retail;San Francisco;Part-time;Senior;Hybrid;95965.54;GBP;6,5
+IBM;Data Analyst;Media;Remote;Full-time;Entry;Hybrid;187768.12;USD;4,3
+Adobe;UX Designer;Education;Boston;Full-time;Lead;Remote;120689.52;EUR;11,2
+Netflix;Data Analyst;Retail;Boston;Part-time;Entry;Remote;30855.07;AUD;5,9
+Netflix;Software Engineer;Education;Chicago;Part-time;Mid;Remote;67533.95;INR;2,9
+Salesforce;UX Designer;Media;Remote;Full-time;Senior;Onsite;41451.67;USD;3,0
+Apple;Data Analyst;Healthcare;Remote;Full-time;Mid;Hybrid;112596.41;INR;9,2
+IBM;Product Manager;Healthcare;Seattle;Part-time;Entry;Hybrid;71849.77;EUR;10,7
+Netflix;UX Designer;Education;Seattle;Contract;Senior;Hybrid;123784.21;EUR;9,7
+Apple;Product Manager;Media;Chicago;Full-time;Entry;Remote;174429.84;USD;12,2
+Google;Data Scientist;Healthcare;Remote;Internship;Mid;Hybrid;96724.72;AUD;11,0
+Microsoft;UX Designer;Healthcare;Remote;Full-time;Mid;Onsite;146307.48;AUD;2,1
+Amazon;DevOps Engineer;Media;Seattle;Contract;Entry;Remote;159450.3;EUR;0,9
+Salesforce;Product Manager;Education;Seattle;Internship;Entry;Remote;196700.26;INR;1,5
+Meta;Data Scientist;Retail;Remote;Part-time;Lead;Onsite;94348.15;AUD;9,8
+Apple;Data Scientist;Education;Austin;Contract;Lead;Hybrid;180819.23;USD;7,5
+Salesforce;DevOps Engineer;Healthcare;New York;Part-time;Mid;Remote;91577.9;USD;9,9
+Adobe;UX Designer;Finance;Remote;Part-time;Lead;Remote;71423.95;EUR;8,6
+IBM;Software Engineer;Tech;New York;Contract;Mid;Onsite;192900.52;AUD;14,5
+Apple;UX Designer;Retail;Seattle;Internship;Mid;Remote;171161.81;AUD;2,1
+Meta;Software Engineer;Media;Chicago;Contract;Lead;Onsite;130401.32;EUR;5,7
+Salesforce;DevOps Engineer;Education;Boston;Part-time;Entry;Remote;110897.76;AUD;9,0
+Amazon;Data Scientist;Retail;Boston;Full-time;Lead;Onsite;101516.28;USD;10,5
+Tesla;Product Manager;Retail;Boston;Full-time;Lead;Remote;73268.06;EUR;13,7
+Tesla;Product Manager;Finance;San Francisco;Full-time;Entry;Onsite;31222.99;EUR;10,3
+Tesla;DevOps Engineer;Retail;Austin;Contract;Lead;Onsite;92159.5;INR;14,9
+Salesforce;UX Designer;Finance;Austin;Internship;Senior;Hybrid;128200.7;GBP;11,0
+Amazon;Data Analyst;Finance;Remote;Internship;Senior;Onsite;134384.31;USD;2,4
+IBM;UX Designer;Tech;San Francisco;Contract;Mid;Hybrid;43606.76;USD;10,9
+IBM;Data Analyst;Finance;Chicago;Internship;Lead;Remote;64290.23;AUD;4,3
+Apple;Data Scientist;Finance;Chicago;Full-time;Senior;Remote;141353.25;EUR;1,3
+Tesla;Data Scientist;Finance;Remote;Full-time;Entry;Remote;123430.75;AUD;13,7
+Apple;UX Designer;Education;Remote;Full-time;Senior;Remote;99212.89;USD;8,4
+Salesforce;Product Manager;Retail;Boston;Contract;Lead;Hybrid;125738.66;EUR;11,4
+Google;UX Designer;Tech;Austin;Full-time;Lead;Onsite;164071.52;EUR;10,2
+Salesforce;Data Scientist;Tech;Chicago;Contract;Mid;Hybrid;45811.6;INR;1,1
+IBM;Product Manager;Finance;Chicago;Part-time;Lead;Onsite;63943.31;EUR;13,1
+IBM;Product Manager;Finance;Boston;Full-time;Entry;Remote;144888.06;GBP;9,2
+Netflix;UX Designer;Retail;Boston;Contract;Lead;Remote;197347.1;AUD;4,2
+Tesla;UX Designer;Retail;San Francisco;Contract;Lead;Onsite;161903.67;GBP;14,6
+Google;DevOps Engineer;Finance;Seattle;Full-time;Senior;Hybrid;134172.28;INR;2,8
+IBM;Product Manager;Healthcare;New York;Internship;Lead;Remote;101245.8;INR;5,5
+Amazon;Data Scientist;Media;New York;Full-time;Senior;Remote;124407.81;GBP;2,9
+Adobe;Software Engineer;Media;Remote;Contract;Lead;Hybrid;72665.59;AUD;0,7
+Meta;UX Designer;Media;San Francisco;Internship;Senior;Hybrid;91363.54;AUD;8,4
+Netflix;DevOps Engineer;Retail;New York;Part-time;Senior;Hybrid;85265.35;AUD;7,3
+Adobe;DevOps Engineer;Finance;Boston;Part-time;Senior;Hybrid;137316.48;AUD;6,1
+Netflix;Product Manager;Media;Austin;Contract;Lead;Hybrid;180907.61;INR;11,2
+Google;Software Engineer;Media;New York;Contract;Entry;Remote;58374.78;USD;1,4
+Tesla;Data Scientist;Tech;San Francisco;Contract;Mid;Remote;141321.55;GBP;4,6
+Amazon;Software Engineer;Retail;Boston;Part-time;Entry;Remote;142803.35;INR;13,0
+Amazon;DevOps Engineer;Retail;New York;Internship;Lead;Onsite;138763.71;AUD;4,6
+Microsoft;UX Designer;Healthcare;Austin;Internship;Senior;Remote;81607.4;USD;7,8
+Google;DevOps Engineer;Education;Boston;Internship;Senior;Remote;160197.76;INR;9,0
+Salesforce;UX Designer;Education;New York;Part-time;Lead;Hybrid;67500.71;USD;6,3
+Meta;Product Manager;Media;Chicago;Contract;Lead;Remote;175091.94;EUR;2,0
+Meta;DevOps Engineer;Retail;Seattle;Part-time;Senior;Remote;55865.38;AUD;0,3
+Adobe;DevOps Engineer;Tech;New York;Full-time;Mid;Remote;113908.52;INR;6,3
+Google;Product Manager;Tech;Boston;Part-time;Entry;Hybrid;161860.99;USD;8,1
+Google;Data Analyst;Media;New York;Internship;Lead;Remote;155395.23;USD;3,0
+Meta;Product Manager;Finance;Chicago;Full-time;Entry;Hybrid;111809.03;INR;3,0
+Apple;DevOps Engineer;Education;Austin;Full-time;Mid;Hybrid;129398.47;GBP;11,8
+Adobe;DevOps Engineer;Retail;New York;Contract;Entry;Remote;56808.74;USD;10,3
+Amazon;DevOps Engineer;Retail;Boston;Full-time;Mid;Hybrid;69554.69;AUD;11,8
+Tesla;Product Manager;Media;New York;Contract;Entry;Hybrid;150126.42;AUD;4,4
+Netflix;Product Manager;Media;Seattle;Contract;Mid;Remote;120293.36;GBP;4,4
+Salesforce;UX Designer;Media;New York;Full-time;Senior;Onsite;70593.71;USD;9,9
+Adobe;Data Scientist;Finance;Remote;Contract;Senior;Hybrid;138953.67;USD;1,4
+Google;Software Engineer;Tech;Seattle;Part-time;Entry;Remote;127072.07;GBP;9,9
+Netflix;Software Engineer;Retail;Chicago;Full-time;Entry;Remote;141477.39;USD;7,0
+Tesla;Product Manager;Media;San Francisco;Contract;Entry;Onsite;41965.98;INR;1,2
+Apple;Data Scientist;Education;New York;Part-time;Mid;Onsite;136305.26;EUR;8,4
+IBM;Product Manager;Media;Seattle;Internship;Entry;Remote;164718.47;AUD;6,0
+IBM;UX Designer;Healthcare;Austin;Contract;Senior;Hybrid;159911.34;GBP;12,4
+Apple;UX Designer;Retail;Chicago;Contract;Senior;Hybrid;106074.96;GBP;0,0
+Amazon;Product Manager;Tech;Austin;Part-time;Mid;Hybrid;33689.23;INR;13,8
+Amazon;Data Analyst;Tech;Seattle;Contract;Mid;Remote;75047.99;AUD;3,7
+IBM;Software Engineer;Media;San Francisco;Contract;Lead;Remote;113006.99;AUD;12,3
+IBM;UX Designer;Tech;Boston;Full-time;Senior;Hybrid;179564.73;GBP;6,2
+Tesla;Data Analyst;Healthcare;Remote;Full-time;Senior;Onsite;126035.19;INR;7,5
+Tesla;UX Designer;Retail;Remote;Full-time;Mid;Hybrid;79263.11;GBP;2,2
+Google;Data Scientist;Education;Austin;Full-time;Lead;Onsite;103863.49;EUR;11,4
+IBM;Software Engineer;Retail;Remote;Part-time;Mid;Remote;75263.71;GBP;4,9
+Tesla;Product Manager;Healthcare;New York;Contract;Senior;Onsite;141419.68;INR;2,5
+Adobe;Data Analyst;Finance;New York;Contract;Mid;Onsite;174969.9;USD;11,1
+Meta;Data Analyst;Healthcare;Chicago;Full-time;Senior;Hybrid;110102.35;INR;3,1
+Meta;Data Scientist;Education;Remote;Part-time;Entry;Hybrid;129110.84;AUD;0,7
+IBM;Product Manager;Tech;Seattle;Full-time;Entry;Hybrid;142263.38;INR;13,0
+Tesla;Data Scientist;Media;San Francisco;Contract;Lead;Onsite;120365.31;EUR;3,0
+Salesforce;Product Manager;Healthcare;Seattle;Internship;Mid;Remote;88952.58;INR;5,3
+Google;DevOps Engineer;Healthcare;Seattle;Full-time;Senior;Remote;55790.39;GBP;9,9
+IBM;DevOps Engineer;Media;New York;Internship;Mid;Onsite;55967.36;INR;13,6
+Amazon;Data Scientist;Retail;Chicago;Part-time;Mid;Hybrid;147050.46;AUD;13,6
+Netflix;Data Analyst;Retail;Remote;Full-time;Mid;Hybrid;172718.83;EUR;10,9
+Meta;Software Engineer;Finance;San Francisco;Part-time;Mid;Remote;159616.07;AUD;9,3
+Apple;Software Engineer;Media;San Francisco;Contract;Entry;Onsite;162570.46;EUR;7,5
+Tesla;UX Designer;Education;New York;Part-time;Mid;Remote;35479.02;USD;13,9
+Microsoft;Software Engineer;Education;Boston;Internship;Senior;Hybrid;180889.78;GBP;6,1
+Tesla;Data Scientist;Media;Remote;Full-time;Entry;Hybrid;107673.07;USD;13,2
+Google;Data Scientist;Education;Remote;Full-time;Mid;Hybrid;104724.16;INR;11,6
+IBM;Data Analyst;Media;Remote;Part-time;Lead;Onsite;106788.67;AUD;1,7
+Tesla;Product Manager;Education;San Francisco;Part-time;Lead;Onsite;182424.98;EUR;13,2
+Amazon;DevOps Engineer;Media;San Francisco;Full-time;Entry;Onsite;106397.73;INR;1,3
+Amazon;UX Designer;Retail;Seattle;Full-time;Mid;Hybrid;126133.57;EUR;2,4
+Meta;DevOps Engineer;Education;Austin;Part-time;Entry;Remote;193273.76;USD;9,3
+Adobe;Data Scientist;Tech;Remote;Internship;Mid;Remote;130106.6;GBP;6,8
+Apple;Data Scientist;Healthcare;Remote;Part-time;Entry;Remote;55203.55;INR;0,6
+Meta;Product Manager;Tech;San Francisco;Full-time;Lead;Remote;57426.99;INR;9,2
+Adobe;DevOps Engineer;Retail;Austin;Full-time;Entry;Hybrid;84879.71;GBP;12,3
+Amazon;Data Analyst;Media;Boston;Contract;Senior;Onsite;100338.84;EUR;10,4
+Salesforce;Data Analyst;Education;Chicago;Contract;Lead;Onsite;174125.65;INR;7,9
+Adobe;Data Scientist;Media;Chicago;Internship;Lead;Remote;180222.83;EUR;10,6
+Microsoft;DevOps Engineer;Finance;Boston;Internship;Lead;Remote;86744.68;AUD;12,1
+Meta;Data Analyst;Healthcare;Austin;Contract;Entry;Remote;146592.08;INR;5,9
+Apple;Product Manager;Healthcare;Chicago;Internship;Lead;Remote;139760.88;GBP;2,3
+Tesla;DevOps Engineer;Tech;Boston;Contract;Senior;Onsite;121100.53;EUR;8,7
+Meta;Data Analyst;Healthcare;Seattle;Part-time;Lead;Remote;131182.62;INR;10,6
+Microsoft;UX Designer;Finance;Austin;Internship;Senior;Remote;119267.07;EUR;1,7
+Google;UX Designer;Retail;New York;Part-time;Senior;Hybrid;154514.98;AUD;4,7
+Salesforce;DevOps Engineer;Finance;New York;Full-time;Lead;Hybrid;151325.16;AUD;1,7
+Netflix;UX Designer;Tech;San Francisco;Contract;Entry;Onsite;158943.95;EUR;4,8
+Adobe;DevOps Engineer;Tech;Austin;Part-time;Mid;Hybrid;49458.27;AUD;8,4
+Netflix;Product Manager;Finance;Chicago;Contract;Mid;Remote;42111.29;AUD;13,4
+Adobe;DevOps Engineer;Tech;San Francisco;Internship;Entry;Remote;102499.18;EUR;10,6
+Meta;Product Manager;Finance;Chicago;Full-time;Lead;Onsite;52405.2;GBP;1,5
+Apple;Software Engineer;Retail;Austin;Contract;Lead;Remote;148934.49;INR;11,8
+Adobe;Data Analyst;Healthcare;Seattle;Internship;Mid;Hybrid;160550.06;AUD;8,6
+Microsoft;Product Manager;Retail;Chicago;Full-time;Senior;Onsite;108365.72;AUD;6,2
+Adobe;UX Designer;Tech;Austin;Part-time;Lead;Hybrid;126425.9;INR;8,2
+IBM;UX Designer;Tech;Remote;Internship;Senior;Onsite;46601.16;GBP;2,6
+IBM;UX Designer;Healthcare;Seattle;Full-time;Entry;Remote;168895.71;AUD;13,5
+Meta;UX Designer;Retail;Remote;Internship;Mid;Remote;145857.85;INR;4,5
+IBM;Data Analyst;Retail;Remote;Internship;Mid;Hybrid;40609.79;AUD;14,5
+Netflix;Data Analyst;Healthcare;Boston;Full-time;Mid;Hybrid;149377.72;GBP;9,4
+Apple;DevOps Engineer;Finance;Seattle;Part-time;Mid;Onsite;95381.16;INR;12,6
+Microsoft;DevOps Engineer;Tech;New York;Internship;Lead;Remote;44392.79;GBP;12,9
+Salesforce;UX Designer;Retail;Boston;Internship;Lead;Hybrid;68375.96;GBP;9,1
+Meta;UX Designer;Retail;Remote;Contract;Entry;Remote;126585.43;INR;1,7
+Salesforce;Product Manager;Education;Remote;Full-time;Entry;Remote;110316.77;USD;10,3
+Netflix;Data Scientist;Tech;Seattle;Internship;Lead;Onsite;154748.47;GBP;5,3
+IBM;DevOps Engineer;Healthcare;Chicago;Contract;Entry;Onsite;110437.29;EUR;8,6
+Adobe;Data Analyst;Finance;Remote;Full-time;Senior;Hybrid;52531.59;INR;4,1
+IBM;DevOps Engineer;Finance;Chicago;Internship;Senior;Remote;74412.94;EUR;7,3
+Amazon;Data Scientist;Finance;Boston;Internship;Lead;Hybrid;70451.06;GBP;10,9
+Netflix;Data Analyst;Media;Austin;Full-time;Entry;Remote;108882.54;GBP;4,5
+Tesla;UX Designer;Healthcare;New York;Internship;Entry;Hybrid;187627.83;GBP;5,7
+Salesforce;DevOps Engineer;Healthcare;Boston;Internship;Senior;Hybrid;75955.44;USD;3,8
+Apple;DevOps Engineer;Media;Remote;Part-time;Senior;Onsite;147347.32;EUR;4,7
+Google;UX Designer;Tech;Remote;Full-time;Lead;Hybrid;67300.78;INR;3,8
+IBM;DevOps Engineer;Finance;Remote;Full-time;Entry;Remote;175594.94;EUR;5,6
+Meta;Product Manager;Education;Chicago;Full-time;Lead;Hybrid;160791.05;INR;3,9
+Netflix;Data Analyst;Healthcare;Boston;Contract;Mid;Hybrid;41797.74;EUR;9,2
+Salesforce;UX Designer;Finance;Remote;Full-time;Lead;Onsite;74029.36;USD;1,1
+Google;UX Designer;Finance;Chicago;Full-time;Entry;Onsite;96382.25;EUR;10,5
+Adobe;UX Designer;Education;Seattle;Full-time;Mid;Remote;95352.06;GBP;1,8
+Tesla;Data Analyst;Media;Chicago;Full-time;Senior;Onsite;175068.15;INR;1,2
+Google;UX Designer;Media;New York;Contract;Lead;Remote;137204.9;INR;7,3
+Apple;Data Analyst;Media;Remote;Part-time;Lead;Hybrid;40708.75;AUD;9,7
+Google;Data Analyst;Healthcare;San Francisco;Contract;Entry;Hybrid;50091.81;AUD;6,9
+Microsoft;Data Analyst;Media;New York;Internship;Entry;Hybrid;184220.41;AUD;0,7
+Meta;Data Analyst;Education;Remote;Part-time;Entry;Remote;49410.55;AUD;12,0
+Tesla;Product Manager;Tech;Chicago;Part-time;Senior;Remote;159918.74;AUD;2,6
+Tesla;Software Engineer;Media;Austin;Part-time;Lead;Remote;187364.84;USD;2,0
+Adobe;Data Analyst;Tech;San Francisco;Part-time;Entry;Onsite;140798.48;INR;6,2
+Meta;Data Scientist;Education;Seattle;Part-time;Mid;Onsite;147584.51;AUD;2,7
+Meta;Product Manager;Education;San Francisco;Part-time;Mid;Remote;197722.6;USD;9,3
+Apple;Product Manager;Tech;New York;Full-time;Mid;Onsite;173442.89;GBP;7,5
+Netflix;Product Manager;Finance;Seattle;Contract;Senior;Onsite;166876.12;GBP;0,6
+Google;UX Designer;Retail;San Francisco;Full-time;Mid;Onsite;105619.55;AUD;4,9
+Microsoft;Product Manager;Finance;San Francisco;Part-time;Lead;Remote;93840.51;EUR;1,1
+Amazon;Software Engineer;Retail;Seattle;Part-time;Lead;Hybrid;53188.78;EUR;9,5
+IBM;Data Analyst;Healthcare;New York;Full-time;Lead;Hybrid;101098.05;INR;3,3
+IBM;Software Engineer;Retail;Remote;Part-time;Entry;Hybrid;175685.54;GBP;12,9
