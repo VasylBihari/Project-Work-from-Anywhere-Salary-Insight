@@ -51,7 +51,14 @@ CREATE TABLE exchange_rates (
 
 /*ДОДАЄМО курси валют*/
 INSERT INTO exchange_rates (currency_code, exchange_rate_to_usd)
-VALUES ('JPY', 0.0067);
+VALUES 
+	('EUR', 1.08),
+	('INR', 0.012),
+	('GBP', 1.27),
+	('CAD', 0.74),
+	('AUD', 0.66),
+	('JPY', 0.0067);
+	
 
 /*Перевіряємо дані в створеній таблиці*/
 select *
