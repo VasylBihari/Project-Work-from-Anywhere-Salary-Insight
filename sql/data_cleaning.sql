@@ -31,7 +31,7 @@ WHERE 'company' IS NULL
    OR 'Currency' IS NULL
    OR 'Years of Experience' IS NULL;
 
-   /*Перевірка на коректність значень*/
+   /*Перевірка на коректність значень в числових стовпцях(чи логічні максимальне і мінімальне значення)*/
 
 SELECT 
 	MAX(salary_annual) as max_salary,
