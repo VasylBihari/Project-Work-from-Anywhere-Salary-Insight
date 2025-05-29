@@ -52,6 +52,7 @@ CREATE TABLE exchange_rates (
 /*ДОДАЄМО курси валют*/
 INSERT INTO exchange_rates (currency_code, exchange_rate_to_usd)
 VALUES 
+	('USD', 1.00),
 	('EUR', 1.08),
 	('INR', 0.012),
 	('GBP', 1.27),
