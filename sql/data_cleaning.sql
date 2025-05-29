@@ -65,3 +65,13 @@ VALUES
 select *
 from exchange_rates;
 
+/*Виконую конвертацію зарплат в USD в колонку salary_usd*/
+
+UPDATE jobs j 
+SET salary_usd = salary_annual * exchange_rate_to_usd
+FROM exchange_rates er 
+WHERE er.currency_code=j."Currency";
+
+/*Перевіряю оновлену таблицю jobs*/
+
+SELECT * FROM jobs;
