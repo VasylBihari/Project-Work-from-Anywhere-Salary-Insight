@@ -41,7 +41,7 @@ SELECT
 FROM jobs;
 
 
-/*Створюємо таблицю з курсами валют*/
+/*Створюю таблицю з курсами валют*/
 
 CREATE TABLE exchange_rates (
     currency_code TEXT PRIMARY KEY,
@@ -49,7 +49,7 @@ CREATE TABLE exchange_rates (
 );
 
 
-/*ДОДАЄМО курси валют*/
+/*Додаю курси валют*/
 INSERT INTO exchange_rates (currency_code, exchange_rate_to_usd)
 VALUES 
 	('USD', 1.00),
@@ -61,14 +61,14 @@ VALUES
 	('JPY', 0.0067);
 	
 
-/*Перевіряємо дані в створеній таблиці*/
+/*Перевіря. дані в створеній таблиці*/
 select *
 from exchange_rates;
 
-/*Виконую конвертацію зарплат в USD в колонку salary_usd*/
+/*Виконую конвертацію зарплат в USD в колонку salary_usd з округленням до двох знаків після коми*/
 
 UPDATE jobs j 
-SET salary_usd = salary_annual * exchange_rate_to_usd
+SET salary_usd = ROUND(salary_annual * exchange_rate_to_usd,2)
 FROM exchange_rates er 
 WHERE er.currency_code=j."Currency";
 
