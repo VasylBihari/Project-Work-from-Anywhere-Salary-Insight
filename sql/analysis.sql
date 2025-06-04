@@ -9,4 +9,14 @@ select
 from jobs
 group by industry, remote_flexibility;
 
+/*Дослідити вплив географічного розташування на рівень зарплат.*/
+
+select
+	location,
+	MAX(salary_usd) as max_salary,
+	MIN (salary_usd) as min_salary,
+	PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY Salary_usd) AS median_salary_usd
+from jobs
+GROUP BY location;
+
 
