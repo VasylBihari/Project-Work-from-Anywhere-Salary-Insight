@@ -48,4 +48,26 @@ GROUP BY
     employment_type
 ORDER BY experience_group, avg_salary_usd DESC;
 
+/*Топ-5 посад за зарплатою в регіонах*/
+
+WITH RankedJobs AS (
+    SELECT 
+        Location,
+        Job_Title,
+        ROUND(AVG(Salary_usd), 2) AS avg_salary_usd,
+        COUNT(*) AS job_count,
+        ROW_NUMBER() OVER (PARTITION BY Location ORDER BY AVG(Salary_usd) DESC) AS rank
+    FROM jobs
+    GROUP BY Location, Job_Title
+    HAVING COUNT(*) > 5  -- Фільтр для уникнення малих груп
+)
+SELECT 
+    Location,
+    Job_Title,
+    avg_salary_usd,
+    job_count
+FROM RankedJobs
+WHERE rank <= 5
+ORDER BY Location, avg_salary_usd DESC;
+
 
