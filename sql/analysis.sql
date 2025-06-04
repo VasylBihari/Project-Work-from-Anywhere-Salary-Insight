@@ -70,4 +70,20 @@ FROM RankedJobs
 WHERE rank <= 5
 ORDER BY Location, avg_salary_usd DESC;
 
+/*Найкращі індустрії для Senior-посад*/
+
+SELECT 
+    Industry,
+    COUNT(*) AS job_count,
+    ROUND(AVG(Salary_usd), 2) AS avg_salary_usd,
+    PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY Salary_usd) AS median_salary_usd,
+    MIN(Salary_usd) AS min_salary_usd,
+    MAX(Salary_usd) AS max_salary_usd
+FROM jobs
+WHERE Experience_Level = 'Senior'
+GROUP BY Industry
+HAVING COUNT(*) > 10  -- Фільтр для уникнення малих груп
+ORDER BY avg_salary_usd DESC, job_count DESC
+LIMIT 5;
+
 
