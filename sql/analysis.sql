@@ -20,3 +20,32 @@ from jobs
 GROUP BY location;
 
 
+/*Визначити ключові фактори, що впливають на зарплату (досвід, посада, тип зайнятості).*/
+
+SELECT 
+    CASE 
+        WHEN "Years of Experience" <= 2 THEN '0-2 years'
+        WHEN "Years of Experience" <= 5 THEN '3-5 years'
+        WHEN "Years of Experience" <= 10 THEN '6-10 years'
+        ELSE '10+ years'
+    END AS experience_group,
+    job_title,
+    employment_type,
+    COUNT(*) AS job_count,
+    ROUND(AVG(salary_usd), 2) AS avg_salary_usd,
+    PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY Salary_usd) AS median_salary_usd,
+    MIN(salary_usd) AS min_salary_usd,
+    MAX(salary_usd) AS max_salary_usd
+FROM jobs
+GROUP BY 
+    CASE 
+        WHEN "Years of Experience" <= 2 THEN '0-2 years'
+        WHEN "Years of Experience" <= 5 THEN '3-5 years'
+        WHEN "Years of Experience" <= 10 THEN '6-10 years'
+        ELSE '10+ years'
+    END,
+    job_Title,
+    employment_type
+ORDER BY experience_group, avg_salary_usd DESC;
+
+
