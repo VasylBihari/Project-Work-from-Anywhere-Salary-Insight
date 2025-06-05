@@ -50,5 +50,5 @@ SQL-запити в PostgreSQL були використані для аналі
 
 Скрипти доступні в папці [sql/analysis.sql](sql/analysis.sql).
 
-💻 Dashboard Project створений в Google Sheets
+💻 Dashboard створений в Google Sheets
 https://docs.google.com/spreadsheets/d/1ZOll5R7cl24bqUJ0RzPMdqhL0Om9gRPDatZJGlIEPYM/edit?usp=sharing.
