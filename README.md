@@ -49,3 +49,6 @@ SQL-запити в PostgreSQL були використані для аналі
 - Визначаю як впливають на зарплату ключові фактори(досвід, посада, тип зайнятості).
 
 Скрипти доступні в папці [sql/analysis.sql](sql/analysis.sql).
+
+💻 Dashboard Project створений в Google Sheets
+https://docs.google.com/spreadsheets/d/1ZOll5R7cl24bqUJ0RzPMdqhL0Om9gRPDatZJGlIEPYM/edit?usp=sharing.
