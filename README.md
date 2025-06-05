@@ -1,7 +1,7 @@
 # Project_Work-from-Anywhere-Salary-Insight
 Аналіз глобальних зарплатних трендів за ролями, регіонами та гнучкістю роботи з використанням PostgreSQL і Google Sheets
 
-![Опис зображення]([https://github.com/my-username/my-repo/raw/main/dashboard/image.png](https://github.com/VasylBihari/Project-Work-from-Anywhere-Salary-Insight/blob/main/dashboard/Dashboard_screen.png))
+![Опис зображення](https://github.com/VasylBihari/Project-Work-from-Anywhere-Salary-Insight/blob/main/dashboard/Dashboard_screen.png)
 
 📋 Огляд проєкту
 
